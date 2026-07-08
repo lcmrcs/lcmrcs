@@ -96,7 +96,7 @@ I'm currently improving my skills in:
   <a href="https://github.com/lcmrcs">
     <img src="https://img.shields.io/badge/GitHub-lcmrcs-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/lucas-merc%C3%AAs-2728b4358/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
