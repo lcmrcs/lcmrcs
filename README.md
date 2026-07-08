@@ -28,15 +28,52 @@ I build automation and reporting solutions for monitoring environments, turning 
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Zabbix-DC382D?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja2" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/zabbix/DC382D" width="42" height="42" alt="Zabbix" />
+      <br />Zabbix
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/grafana/F46800" width="42" height="42" alt="Grafana" />
+      <br />Grafana
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/python/3776AB" width="42" height="42" alt="Python" />
+      <br />Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/pandas/150458" width="42" height="42" alt="Pandas" />
+      <br />Pandas
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/jinja/B41717" width="42" height="42" alt="Jinja2" />
+      <br />Jinja2
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="42" height="42" alt="JavaScript" />
+      <br />JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/html5/E34F26" width="42" height="42" alt="HTML5" />
+      <br />HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/css/663399" width="42" height="42" alt="CSS" />
+      <br />CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/git/F05032" width="42" height="42" alt="Git" />
+      <br />Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="42" height="42" alt="GitHub Actions" />
+      <br />Actions
+    </td>
+  </tr>
+</table>
 
 ---
 
