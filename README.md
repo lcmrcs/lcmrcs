@@ -28,52 +28,27 @@ I build automation and reporting solutions for monitoring environments, turning 
 
 ## Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/zabbix/DC382D" width="42" height="42" alt="Zabbix" />
-      <br />Zabbix
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/grafana/F46800" width="42" height="42" alt="Grafana" />
-      <br />Grafana
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/python/3776AB" width="42" height="42" alt="Python" />
-      <br />Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/pandas/150458" width="42" height="42" alt="Pandas" />
-      <br />Pandas
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/jinja/B41717" width="42" height="42" alt="Jinja2" />
-      <br />Jinja2
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="42" height="42" alt="JavaScript" />
-      <br />JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/html5/E34F26" width="42" height="42" alt="HTML5" />
-      <br />HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/css/663399" width="42" height="42" alt="CSS" />
-      <br />CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/git/F05032" width="42" height="42" alt="Git" />
-      <br />Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="42" height="42" alt="GitHub Actions" />
-      <br />Actions
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lcmrcs/lcmrcs/main/assets/zabbix.svg" width="58" height="58" alt="Zabbix" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/grafana/F46800" width="58" height="58" alt="Grafana" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="58" height="58" alt="Python" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="58" height="58" alt="Pandas" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/jinja/B41717" width="58" height="58" alt="Jinja2" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="58" height="58" alt="JavaScript" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="58" height="58" alt="HTML5" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/css/663399" width="58" height="58" alt="CSS" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/git/F05032" width="58" height="58" alt="Git" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="58" height="58" alt="GitHub Actions" />
+</p>
 
 ---
 
