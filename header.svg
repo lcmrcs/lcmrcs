@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title description">
+  <title id="title">Lucas Mercês</title>
+  <desc id="description">Network and infrastructure monitoring professional and Systems Analysis and Development student</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05070a"/>
+      <stop offset="0.52" stop-color="#090d13"/>
+      <stop offset="1" stop-color="#05070a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#60a5fa" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-100%" width="160%" height="300%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="frame"><rect width="1200" height="250" rx="16"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="250" fill="url(#background)"/>
+    <circle cx="600" cy="104" r="190" fill="#0ea5e9" opacity=".035">
+      <animate attributeName="r" values="170;205;170" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".025;.055;.025" dur="6s" repeatCount="indefinite"/>
+    </circle>
+
+    <path d="M0 207 C150 166 292 242 445 207 S744 172 900 207 S1085 235 1200 201 V250 H0Z" fill="#202631" opacity=".9">
+      <animate attributeName="d" dur="9s" repeatCount="indefinite"
+        values="M0 207 C150 166 292 242 445 207 S744 172 900 207 S1085 235 1200 201 V250 H0Z;M0 203 C165 238 300 170 455 205 S752 240 915 201 S1082 174 1200 210 V250 H0Z;M0 207 C150 166 292 242 445 207 S744 172 900 207 S1085 235 1200 201 V250 H0Z"/>
+    </path>
+    <path d="M0 224 C178 251 310 191 478 222 S792 249 955 214 S1105 203 1200 223 V250 H0Z" fill="#717781" opacity=".75">
+      <animate attributeName="d" dur="7s" repeatCount="indefinite"
+        values="M0 224 C178 251 310 191 478 222 S792 249 955 214 S1105 203 1200 223 V250 H0Z;M0 218 C158 190 320 248 480 218 S780 187 948 222 S1100 246 1200 217 V250 H0Z;M0 224 C178 251 310 191 478 222 S792 249 955 214 S1105 203 1200 223 V250 H0Z"/>
+    </path>
+    <path d="M0 239 C180 214 342 252 520 234 S845 215 1010 236 S1135 246 1200 235 V250 H0Z" fill="#c4c7cc" opacity=".88">
+      <animate attributeName="d" dur="11s" repeatCount="indefinite"
+        values="M0 239 C180 214 342 252 520 234 S845 215 1010 236 S1135 246 1200 235 V250 H0Z;M0 234 C170 254 350 215 520 238 S842 253 1000 231 S1140 216 1200 239 V250 H0Z;M0 239 C180 214 342 252 520 234 S845 215 1010 236 S1135 246 1200 235 V250 H0Z"/>
+    </path>
+
+    <rect x="420" y="62" width="360" height="2" rx="1" fill="url(#accent)" filter="url(#glow)" opacity=".8"/>
+    <text x="600" y="124" fill="#f4f4f5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="50" font-weight="700" text-anchor="middle" letter-spacing="-.8">Lucas Mercês</text>
+    <text x="600" y="162" fill="#a9b0ba" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" text-anchor="middle" letter-spacing=".6">Network &amp; Infrastructure Monitoring  |  Systems Analysis &amp; Development</text>
+    <circle cx="430" cy="185" r="3" fill="#22d3ee"/>
+    <line x1="442" y1="185" x2="758" y2="185" stroke="url(#accent)" stroke-width="1" opacity=".55"/>
+    <circle cx="770" cy="185" r="3" fill="#60a5fa"/>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="249" rx="15.5" fill="none" stroke="#303641"/>
+</svg>

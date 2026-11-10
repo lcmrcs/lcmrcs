@@ -2,27 +2,35 @@
 <!-- Lucas Mercês | GitHub Profile -->
 <div align="center">
 
-<img src="./header.gif" width="100%" alt="Lucas Mercês — Network & Infrastructure Monitoring | Systems Analysis and Development Student" />
-
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1100&color=BFC3CB&center=true&vCenter=true&width=680&height=38&lines=Monitoring+infrastructure.;Automating+operations.;Building+better+systems." alt="Monitoring infrastructure. Automating operations. Building better systems." />
-
-<br />
-
-<a href="https://www.linkedin.com/in/lucas-merc%C3%AAs-2728b4358/"><img src="https://img.shields.io/badge/LinkedIn-Connect-404040?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<img src="https://img.shields.io/badge/Salvador-Brazil-525252?style=for-the-badge" alt="Salvador, Brazil" />
+<img src="./header.svg" width="100%" alt="Lucas Mercês — Network & Infrastructure Monitoring | Systems Analysis and Development" />
 
 <br /><br />
 
-<h3>About me</h3>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=780&height=55&lines=Building+better+systems.;Monitoring+infrastructure.;Automating+operations." alt="Building better systems. Monitoring infrastructure. Automating operations." />
+
+<br /><br />
+
+<a href="https://www.linkedin.com/in/lucas-merc%C3%AAs-2728b4358/"><img src="https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" alt="Connect with Lucas on LinkedIn" /></a>
+&nbsp;
+<img src="https://img.shields.io/badge/BASED_IN-Salvador%2C_Brazil-22D3EE?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=111827" alt="Based in Salvador, Brazil" />
+
+<br /><br /><br />
+
+<h2>About me</h2>
 <p>
-NOC professional at <b>Techface</b>, focused on infrastructure monitoring,<br />
-incident analysis and operational automation.<br />
-Currently studying <b>Systems Analysis and Development</b>.
+I work in NOC operations at <b>Techface</b>, turning infrastructure signals into<br />
+clear incident response, reliable monitoring, and smarter operational workflows.<br />
+I am currently studying <b>Systems Analysis and Development</b> and building the skills<br />
+to connect infrastructure, automation, and software development.
 </p>
 
 <br />
+
+<img src="https://img.shields.io/badge/NOC_OPERATIONS-111827?style=flat-square&logo=checkmk&logoColor=22D3EE" alt="NOC Operations" />
+<img src="https://img.shields.io/badge/INCIDENT_ANALYSIS-111827?style=flat-square&logo=opsgenie&logoColor=60A5FA" alt="Incident Analysis" />
+<img src="https://img.shields.io/badge/OPERATIONAL_AUTOMATION-111827?style=flat-square&logo=gnubash&logoColor=22D3EE" alt="Operational Automation" />
+
+<br /><br />
 
 <h3>Tech stack</h3>
 
@@ -53,9 +61,5 @@ Currently studying <b>Systems Analysis and Development</b>.
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
 <img src="https://img.shields.io/badge/C-3949AB?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </p>
-
-<br />
-
-<img src="./footer.gif" width="100%" alt="Monitoring / Automation / Development" />
 
 </div>
