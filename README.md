@@ -2,35 +2,28 @@
 <!-- Lucas Mercês | GitHub Profile -->
 <div align="center">
 
-<img src="./header.svg" width="100%" alt="Lucas Mercês — Network & Infrastructure Monitoring | Systems Analysis and Development" />
+<img src="./header.gif" width="100%" alt="Lucas Mercês — Network & Infrastructure Monitoring | Systems Analysis and Development Student" />
 
-<br /><br />
+<br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=780&height=55&lines=Building+better+systems.;Monitoring+infrastructure.;Automating+operations." alt="Building better systems. Monitoring infrastructure. Automating operations." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=BFC3CB&center=true&vCenter=true&width=700&height=46&lines=Building+better+systems.;Monitoring+infrastructure.;Automating+operations." alt="Building better systems. Monitoring infrastructure. Automating operations." />
 
-<br /><br />
+<br />
 
 <a href="https://www.linkedin.com/in/lucas-merc%C3%AAs-2728b4358/"><img src="https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" alt="Connect with Lucas on LinkedIn" /></a>
 &nbsp;
 <img src="https://img.shields.io/badge/BASED_IN-Salvador%2C_Brazil-22D3EE?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=111827" alt="Based in Salvador, Brazil" />
 
-<br /><br /><br />
+<br /><br />
 
-<h2>About me</h2>
+<h3>About me</h3>
 <p>
-I work in NOC operations at <b>Techface</b>, turning infrastructure signals into<br />
-clear incident response, reliable monitoring, and smarter operational workflows.<br />
-I am currently studying <b>Systems Analysis and Development</b> and building the skills<br />
-to connect infrastructure, automation, and software development.
+NOC professional at <b>Techface</b>, focused on infrastructure monitoring,<br />
+incident analysis, and automation that makes operations more reliable.<br />
+Currently studying <b>Systems Analysis and Development</b> and expanding into software development.
 </p>
 
 <br />
-
-<img src="https://img.shields.io/badge/NOC_OPERATIONS-111827?style=flat-square&logo=checkmk&logoColor=22D3EE" alt="NOC Operations" />
-<img src="https://img.shields.io/badge/INCIDENT_ANALYSIS-111827?style=flat-square&logo=opsgenie&logoColor=60A5FA" alt="Incident Analysis" />
-<img src="https://img.shields.io/badge/OPERATIONAL_AUTOMATION-111827?style=flat-square&logo=gnubash&logoColor=22D3EE" alt="Operational Automation" />
-
-<br /><br />
 
 <h3>Tech stack</h3>
 
